@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Finn.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="Finn Down0000" x="0" y="0" width="695" height="632" frameX="0" frameY="-24" frameWidth="695" frameHeight="656"/>
+	<SubTexture name="Finn Down0001" x="695" y="0" width="695" height="632" frameX="0" frameY="-24" frameWidth="695" frameHeight="656"/>
+	<SubTexture name="Finn Idle0000" x="0" y="1162" width="555" height="579" frameX="0" frameY="-89" frameWidth="555" frameHeight="668"/>
+	<SubTexture name="Finn Idle0001" x="555" y="1162" width="555" height="579" frameX="0" frameY="-89" frameWidth="555" frameHeight="668"/>
+<SubTexture name="Finn Idle0002" x="1110" y="1162" width="537" height="600" frameX="-18" frameY="-68" frameWidth="555" frameHeight="668"/>
+	<SubTexture name="Finn Idle0003" x="1110" y="1162" width="537" height="600" frameX="-18" frameY="-68" frameWidth="555" frameHeight="668"/>
+<SubTexture name="Finn Idle0004" x="1647" y="1162" width="514" height="634" frameX="-33" frameY="-34" frameWidth="555" frameHeight="668"/>
+	<SubTexture name="Finn Idle0005" x="1647" y="1162" width="514" height="634" frameX="-33" frameY="-34" frameWidth="555" frameHeight="668"/>
+<SubTexture name="Finn Idle0006" x="2151" y="0" width="498" height="668" frameX="-44" frameY="0" frameWidth="555" frameHeight="668"/>
+	<SubTexture name="Finn Idle0007" x="2151" y="0" width="498" height="668" frameX="-44" frameY="0" frameWidth="555" frameHeight="668"/>
+	<SubTexture name="Finn Idle0008" x="2151" y="0" width="498" height="668" frameX="-44" frameY="0" frameWidth="555" frameHeight="668"/>
+	<SubTexture name="Finn Idle0009" x="2151" y="0" width="498" height="668" frameX="-44" frameY="0" frameWidth="555" frameHeight="668"/>
+	<SubTexture name="Finn Idle0010" x="2151" y="0" width="498" height="668" frameX="-44" frameY="0" frameWidth="555" frameHeight="668"/>
+	<SubTexture name="Finn Idle0011" x="2151" y="0" width="498" height="668" frameX="-44" frameY="0" frameWidth="555" frameHeight="668"/>
+<SubTexture name="Finn Left0000" x="1390" y="0" width="761" height="556" frameX="0" frameY="-48" frameWidth="761" frameHeight="643"/>
+	<SubTexture name="Finn Left0001" x="1390" y="556" width="761" height="606" frameX="0" frameY="-20" frameWidth="761" frameHeight="643"/>
+	<SubTexture name="Finn Right0000" x="0" y="1796" width="890" height="624" frameX="0" frameY="-13" frameWidth="920" frameHeight="709"/>
+	<SubTexture name="Finn Right0001" x="890" y="1796" width="920" height="631" frameX="0" frameY="-6" frameWidth="920" frameHeight="709"/>
+	<SubTexture name="Finn Up0000" x="1810" y="1796" width="797" height="726" frameX="0" frameY="0" frameWidth="804" frameHeight="726"/>
+	<SubTexture name="Finn Up0001" x="2649" y="0" width="797" height="726" frameX="0" frameY="0" frameWidth="804" frameHeight="726"/>
+</TextureAtlas>
