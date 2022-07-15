@@ -81,6 +81,15 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			['Cara q porto e otimizo lol'],
+			['Marcelinho',	'Marcelo',				'seila que boto aqui a fds',					'https://youtube.com/channel/UCXNiQ0ba5hDu31NsEjZC15w', 	'00AAFF'],
+			[''],
+			['Cara q testo o port primeiro'],
+			['Paulinho ricardo',	'beta teste',				'seila que boto aqui a fds',					'https://youtube.com/c/ShifterBR', 	'00AAFF'],
+			[''],
+			['Alguns esprites são dele'],
+			['João otimizaçãoes',	'João otimizaçãoes',				'pequei alguns esprite do meu amigo',					'', 	'00AAFF'],
+			[''],
 			['Psych Engine Android'],
 			['Saw (M.A. Jigsaw)',	'saw',				'Main Programmer of Psych Engine Android',					'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ', 	'F73838'],
 			[''],
